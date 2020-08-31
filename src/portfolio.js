@@ -264,6 +264,6 @@ const contactInfo = {
 //Twitter Section
 
 const twitterDetails = {
-  userName : "adamsokode"//Replace "twitter" with your twitter username without @
+  userName : ""//Replace "twitter" with your twitter username without @
 };
 export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
